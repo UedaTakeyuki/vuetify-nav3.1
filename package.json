@@ -1,0 +1,55 @@
+{
+  "name": "vuetify-nav3",
+  "version": "1.0.5",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build-bundle": "vue-cli-service build --target lib --name VuetifyNav3 --formats umd ./src/build-entry.js",
+    "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UedaTakeyuki/vuetify-nav3.1.git"
+  },
+  "main": "./src/build-entry.js",
+  "files": [
+    "dist/*",
+    "src/components/Navbar.vue",
+    "src/components/SvgIconMenu.vue",
+    "src/build-entry.js"
+  ],
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "qrcode-of-this-site3": "^1.0.11",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.19",
+    "@vue/cli-plugin-eslint": "~4.5.19",
+    "@vue/cli-service": "~4.5.19",
+    "@vue/compiler-sfc": "^3.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
