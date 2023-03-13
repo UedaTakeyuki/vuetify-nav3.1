@@ -6,8 +6,6 @@ For **Vue2 + Vuetify2**, package  [vuetify-nav2](https://www.npmjs.com/package/v
 
 <img src="https://github.com/UedaTakeyuki/vuetify-nav3.1/blob/main/img/ss.2023-03-13.11.24.02.png" width="90%"/> 
 
-## Project setup
-
 ## Why vuetify-nav3
 The **vuetify-nav3** is an out-of-the-box navigation menu component **without messy boilerplate** codes.
 
