@@ -1,4 +1,7 @@
-# Out-of-the-box Vuetify navigation menu component, with Toolbar, Navigation Drawers, Menus, and QR code
+# Obsoleted, this project was merged into [vuetify-nav3](https://www.npmjs.com/package/vuetify-nav3).
+The purpose of this project was experimental, and finally all result was merged.
+
+## Out-of-the-box Vuetify navigation menu component, with Toolbar, Navigation Drawers, Menus, and QR code
 
 This Package is the successor of [vuetify-nav](https://github.com/UedaTakeyuki/vuetify-nav) for **Vue3 + Vuetify3**.  
 For **Vue2 + Vuetify2**, package  [vuetify-nav2](https://www.npmjs.com/package/vuetify-nav2) is avallable. 
